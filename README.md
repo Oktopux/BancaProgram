@@ -30,7 +30,7 @@ Objetivo del Proyecto
 
 Este proyecto fue desarrollado como práctica para reforzar:
 
-Programación orientada a objetos (si la usas)
+Programación orientada a objetos 
 
 Manejo de funciones
 
